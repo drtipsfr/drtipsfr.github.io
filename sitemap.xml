@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fr.drtips.net/stocking/</loc>
+    
+    <lastmod>2020-03-03T14:20:50.484Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fr.drtips.net/takeaway-in-france/</loc>
+    
+    <lastmod>2020-03-03T07:24:39.774Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fr.drtips.net/concerts-in-france/</loc>
     
-    <lastmod>2020-02-26T07:33:05.579Z</lastmod>
+    <lastmod>2020-03-03T07:24:05.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fr.drtips.net/supermarket-in-france/</loc>
+    
+    <lastmod>2020-03-03T07:23:50.350Z</lastmod>
     
   </url>
   
@@ -19,20 +40,6 @@
     <loc>https://fr.drtips.net/cognac/</loc>
     
     <lastmod>2020-02-16T17:17:10.448Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fr.drtips.net/supermarket-in-france/</loc>
-    
-    <lastmod>2020-02-13T10:57:27.958Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fr.drtips.net/takeaway-in-france/</loc>
-    
-    <lastmod>2020-02-13T07:25:24.047Z</lastmod>
     
   </url>
   
