@@ -1,5 +1,6 @@
 .lc-page-header {
   display: none;
+  height: 0px;
 }
 .likecoin-button {
   position: relative;
