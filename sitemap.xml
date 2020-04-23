@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fr.drtips.net/herschel/</loc>
+    
+    <lastmod>2020-04-23T07:30:21.396Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fr.drtips.net/language-tool/</loc>
     
     <lastmod>2020-04-22T07:17:35.144Z</lastmod>
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://fr.drtips.net/top-cities-in-france/</loc>
-    
-    <lastmod>2020-03-25T07:31:57.818Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://fr.drtips.net/strasbourg-chinese-supermarket/</loc>
     
     <lastmod>2020-03-25T07:31:57.818Z</lastmod>
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://fr.drtips.net/montpellier-chinese-restaurant/</loc>
+    <loc>https://fr.drtips.net/top-cities-in-france/</loc>
     
-    <lastmod>2020-03-25T07:31:57.814Z</lastmod>
+    <lastmod>2020-03-25T07:31:57.818Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fr.drtips.net/lille-chinese-restaurants/</loc>
+    <loc>https://fr.drtips.net/lille-chinese-supermarket/</loc>
     
     <lastmod>2020-03-25T07:31:57.814Z</lastmod>
     
@@ -86,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://fr.drtips.net/borderux-chinese-supermarket/</loc>
+    <loc>https://fr.drtips.net/lille-chinese-restaurants/</loc>
     
     <lastmod>2020-03-25T07:31:57.814Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fr.drtips.net/lyon-chinese-supermarket/</loc>
+    <loc>https://fr.drtips.net/borderux-chinese-supermarket/</loc>
     
     <lastmod>2020-03-25T07:31:57.814Z</lastmod>
     
@@ -107,7 +107,14 @@
   </url>
   
   <url>
-    <loc>https://fr.drtips.net/lille-chinese-supermarket/</loc>
+    <loc>https://fr.drtips.net/lyon-chinese-supermarket/</loc>
+    
+    <lastmod>2020-03-25T07:31:57.814Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fr.drtips.net/montpellier-chinese-restaurant/</loc>
     
     <lastmod>2020-03-25T07:31:57.814Z</lastmod>
     
