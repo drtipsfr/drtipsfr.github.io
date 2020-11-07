@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fr.drtips.net/cognac/</loc>
+    
+    <lastmod>2020-11-07T07:36:50.698Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fr.drtips.net/covid19-test/</loc>
     
     <lastmod>2020-11-04T07:21:43.773Z</lastmod>
@@ -257,13 +264,6 @@
     <loc>https://fr.drtips.net/how-to-rent-a-house-in-france/</loc>
     
     <lastmod>2020-02-26T07:22:14.613Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fr.drtips.net/cognac/</loc>
-    
-    <lastmod>2020-02-16T17:17:10.448Z</lastmod>
     
   </url>
   
